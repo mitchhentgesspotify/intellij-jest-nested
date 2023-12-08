@@ -7,6 +7,6 @@
   "private": true,
   "devDependencies": {
     "proxy": "file:./../proxy",
-    "@playwright/test": "file:./../playwright-test"
+    "@playwright/test-foo": "file:./../playwright-test"
   }
 }
